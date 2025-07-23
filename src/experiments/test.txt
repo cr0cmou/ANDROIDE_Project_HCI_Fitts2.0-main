@@ -1,0 +1,4 @@
+device mouse
+fitts_exp1 circle 1400 90 21 H
+device controller
+fitts_exp1 circle 1400 90 21 H

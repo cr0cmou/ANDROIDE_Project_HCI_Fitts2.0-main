@@ -1,0 +1,2 @@
+device touchpad
+exp2 random 1000 14 5
