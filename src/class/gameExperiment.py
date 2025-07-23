@@ -630,6 +630,9 @@ class GameExperiment(Game):
             return pygame.mouse.get_pos()
         else:
             return (self.cursor.x, self.cursor.y)
+        
+    def freezeOutOfBounds(self) :
+        return
 
     def start(self):
         self.running = True
